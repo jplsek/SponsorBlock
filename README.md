@@ -50,6 +50,12 @@ You can read the API docs [here](https://github.com/ajayyy/SponsorBlockServer#ap
 
 You can load this project as an unpacked extension. Make sure to rename the `config.js.example` file to `config.js` before installing.
 
+There are also other build scripts available. Install `yarn`, then run `yarn install` in the repository.
+
+## Code Formatting
+
+Before submitting a pull request, run `yarn run format` to auto-format your code.
+
 # Credit
 
 The awesome [Invidious API](https://github.com/omarroth/invidious/wiki/API) is used to grab the time the video was published.
