@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "format": "prettier --write \"**/*.{js,jsx,json,md}\""
+    "format": "prettier --write \"**/*.{js,jsx,json,md,css}\""
   },
   "repository": {
     "type": "git",
